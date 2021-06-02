@@ -47,10 +47,10 @@
             "value": "contosoAppInsight1223"
         },
         "deploymentStorageAccountName": {
-            "value": "contosodeployments98veganagl"
+            "value": "contosoveganagl"
         },
         "applicationStorageAccountName": {
-            "value": "contosoappstate98vegangal"
+            "value": "contosovegangal"
         },
         "storageAccountType": {
             "value": "Standard_LRS"
@@ -80,22 +80,22 @@
             "value": "Allow"
         },
         "privateBlobEndpointName": {
-            "value": "private-blob-endpointvegangal"
+            "value": "private-blob-evegangal"
         },
         "privateBlobEndpointConnectionName": {
-            "value": "private-blob-endpoint-connectionvegangal"
+            "value": "private-blob-evegangal"
         },
         "privateTableEndpointName": {
-            "value": "private-table-endpointvegangal"
+            "value": "private-table-tvegangal"
         },
         "privateTableEndpointConnectionName": {
-            "value": "private-table-endpoint-connectionvegangal"
+            "value": "private-table-vegangal"
         },        
         "privateQueueEndpointName": {
             "value": "private-queue-endpointvegangal"
         },
         "privateQueueEndpointConnectionName": {
-            "value": "private-queue-endpoint-connectionvegangal"
+            "value": "private-queue-vegangal"
         },
         "privateEndpointApiVersion": {
             "value": "2020-03-01"
@@ -125,10 +125,10 @@
             "value": "1"
         },
         "logicAppBEPrivateEndpointName": {
-            "value": "LogicAppBE-PrivateEndpointvegangal"
+            "value": "LogicAppBE-Privatetvegangal"
         },
         "logicAppBEPrivateEndpointConnectionName": {
-            "value": "LogicAppBE-PrivateEndpointConnectionvegangal"
+            "value": "LogicAppBE-Privatevegangal"
         },
         "logicAppFEname": {
             "value": "LogicAppFE98vegangal"
