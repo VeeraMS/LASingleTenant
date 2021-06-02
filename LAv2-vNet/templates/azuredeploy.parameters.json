@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "westus2"
+            "value": "eastus"
         },
         "virtualNetworkName": {
-            "value": "ContosoVNET"
+            "value": "ContosoVNET123"
         },
         "addressSpaces": {
             "value": [
@@ -44,13 +44,13 @@
             "value": "private-links"
         },
         "appInsightName": {
-            "value": "contosoAppInsight"
+            "value": "contosoAppInsight1223"
         },
         "deploymentStorageAccountName": {
-            "value": "contosodeployments98"
+            "value": "contosodeployments98veganagl"
         },
         "applicationStorageAccountName": {
-            "value": "contosoappstate98"
+            "value": "contosoappstate98vegangal"
         },
         "storageAccountType": {
             "value": "Standard_LRS"
@@ -80,31 +80,31 @@
             "value": "Allow"
         },
         "privateBlobEndpointName": {
-            "value": "private-blob-endpoint"
+            "value": "private-blob-endpointvegangal"
         },
         "privateBlobEndpointConnectionName": {
-            "value": "private-blob-endpoint-connection"
+            "value": "private-blob-endpoint-connectionvegangal"
         },
         "privateTableEndpointName": {
-            "value": "private-table-endpoint"
+            "value": "private-table-endpointvegangal"
         },
         "privateTableEndpointConnectionName": {
-            "value": "private-table-endpoint-connection"
+            "value": "private-table-endpoint-connectionvegangal"
         },        
         "privateQueueEndpointName": {
-            "value": "private-queue-endpoint"
+            "value": "private-queue-endpointvegangal"
         },
         "privateQueueEndpointConnectionName": {
-            "value": "private-queue-endpoint-connection"
+            "value": "private-queue-endpoint-connectionvegangal"
         },
         "privateEndpointApiVersion": {
             "value": "2020-03-01"
         },
         "logicAppBEname": {
-            "value": "LogicAppBE98"
+            "value": "LogicAppBE98vegangal"
         },
         "logicAppBEHostingPlanBEName": {
-            "value": "LogicAppBEPlan"
+            "value": "LogicAppBEPlanvegangal"
         },
         "logicAppUse32BitWorkerProcess": {
             "value": true
@@ -125,16 +125,16 @@
             "value": "1"
         },
         "logicAppBEPrivateEndpointName": {
-            "value": "LogicAppBE-PrivateEndpoint"
+            "value": "LogicAppBE-PrivateEndpointvegangal"
         },
         "logicAppBEPrivateEndpointConnectionName": {
-            "value": "LogicAppBE-PrivateEndpointConnection"
+            "value": "LogicAppBE-PrivateEndpointConnectionvegangal"
         },
         "logicAppFEname": {
-            "value": "LogicAppFE98"
+            "value": "LogicAppFE98vegangal"
         },
         "logicAppFEHostingPlanFEName": {
-            "value": "LogicAppFEPlan"
+            "value": "LogicAppFEPlanvegangal"
         },
         "tags": {
             "value": {}
